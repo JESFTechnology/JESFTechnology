@@ -1,8 +1,7 @@
-### Olá.. Sejam bem-vindos ao meu perfil. Eu sou Johann Sacconi.
 ### Hello.. Welcome to my perfil. I'm Johann Sacconi.
 
-- 📫 How to reach me: johannsacconi@gmail.com
-
+- 🎓 Where I studied: IFSULDEMINAS Campus Machado | High School and College |
+- 📫 How to reach me: johannestevaosacconi@gmail.com
 
 - #### Here some of the technologies I'm currently working with:
 
