@@ -1,4 +1,5 @@
-### Olá.. Sejam bem-vindos. Eu sou Johann Sacconi.
+### Olá.. Sejam bem-vindos ao meu perfil. Eu sou Johann Sacconi.
+### Hello.. Welcome to my perfil. I'm Johann Sacconi.
 
 - 📫 How to reach me: johannsacconi@gmail.com
 
