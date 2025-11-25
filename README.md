@@ -1,6 +1,6 @@
 ### Hello.. Welcome to my perfil. I'm Johann Sacconi.
 
-- 👦🏻 I'm 18 years old
+- 👦🏻 I'm 19 years old
 - 🎓 Where I studied: IFSULDEMINAS Campus Machado | High School and College |
 - 📖 How to reach me: johannestevaosacconi@gmail.com
 
